@@ -1,0 +1,37 @@
+body
+{
+	margin: 200px 50px;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #444;
+	padding: 0 10px;
+	background-color: #2c3e50;
+}
+h1
+{
+	line-height: 1.2;
+	color: black;
+}
+#modal1
+{
+	height: 26px;
+	width: 37px;
+	margin:0 0 0 150px ;
+	background-color: green;
+	color: #ffff
+	border: none;
+}
+#modal2
+{
+	height: 27px;
+	margin: 0 100px auto; 
+	width: 38px;
+	background-color: red;
+	color: #ffff;
+	text-align: justify;
+}
+#total
+
+
+
